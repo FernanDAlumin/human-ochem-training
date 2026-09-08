@@ -114,3 +114,11 @@
 - 软件官方介绍：[ReactionFlash](https://apps.apple.com/us/app/reactionflash/id432080813)、[Chemistry By Design](https://sites.arizona.edu/njardarson-lab/cbyd/)。
 - Chemistry By Design 项目论文：Draghici, C.; Njardarson, J. T. *Chemistry By Design: A Web-Based Educational Flashcard Exploring Synthetic Organic Chemistry.* J. Chem. Educ. **2012**, *89*, 1080–1082。
 - 化学示例与解释在各题卡保留来源。优先自编题干与结构图，外部内容的复用方式按其许可处理。
+
+## License
+
+Copyright © 2026 [FernanDAlumin](https://github.com/FernanDAlumin).
+
+除另有说明外，本仓库的原创文字、题目编排和自制素材采用 [Creative Commons Attribution 4.0 International（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/) 许可，完整条款见 [LICENSE](LICENSE)。转载和改编时，请保留署名、许可链接，并注明修改。
+
+引用或链接的论文、软件、图片等第三方材料仍遵循各自的许可，不因本仓库的授权而改变。
